@@ -6,5 +6,5 @@ Advantages:
 2. Using basic python codes
 
 Disadvantages:
-1. Still require image for processing (cannot using pdf as source)
+1. Still require image for processing (cannot use pdf as resource)
 2. Not an application
